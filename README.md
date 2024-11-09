@@ -1,9 +1,8 @@
-### Hi there 👋,  I am Shipon👋
-#### I am passionate Frontend and backend Engineer from Bangladesh 
+
 ![Mern stack developer from Bangladesh](https://i.ibb.co/YDfCMj3/code.gif)
 
-
-JavaScript Engineer | MERN Stack Specialist
+### Hi there 👋,  I am Shipon👋
+#### I am passionate Frontend and backend Engineer from Bangladesh 
 
 I'm a JavaScript Engineer with a strong focus on the MERN stack, including React, Next.js, Astro.js, Redux, MongoDB, Mongoose, Express, and Node.js. With comprehensive experience across both front-end and back-end development, I specialize in building and maintaining robust, scalable web applications from concept to deployment. I am a skilled problem-solver with a dedication to refining processes and enhancing performance at every stage.
 
