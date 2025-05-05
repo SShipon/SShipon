@@ -1,5 +1,5 @@
 
-![Mern stack developer from Bangladesh](https://i0.wp.com/sailssoftware.com/wp-content/uploads/2022/11/www.sailssoftware.com123.png?resize=706%2C400&ssl=1)
+![Mern stack developer from Bangladesh](https://res.cloudinary.com/dtybjrjc8/image/upload/c_thumb,w_200,g_face/v1746427841/banner_kidyyk.png)
 
 ### Hi there 👋,  I am Shipon👋
 #### I am passionate Frontend and backend Engineer from Bangladesh 
