@@ -1,7 +1,7 @@
 
 
 
-![Mern stact developer](https://i0.wp.com/sailssoftware.com/wp-content/uploads/2022/11/www.sailssoftware.com123.png?resize=706%2C400&ssl=1)
+![Mern stact developer](https://res.cloudinary.com/dtybjrjc8/image/upload/v1746433099/Sh_Shipon_4_bz3xd0.png)
 
 
 
