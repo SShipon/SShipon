@@ -1,3 +1,9 @@
+(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxshipon@gmail.com)
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oxshipon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sh__Shipon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/webshipon) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shipon mia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxshipon@gmail.com) 
