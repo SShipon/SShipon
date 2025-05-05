@@ -5,8 +5,20 @@
 
 ## MERN Stack Developer
 
-I’m Shipon — a full-stack developer with 2+ years of experience. I build fast, modern, and SEO-friendly websites using JavaScript, TypeScript, React.js, Next.js, Astro.js, Node.js, MongoDB, Tailwind CSS, and Material UI.
-Clean code, responsive design, and smooth performance — that’s what I deliver. Let’s build something awesome!
+ Hi, I'm Shipon — a full-stack developer with 2+ years of experience.
+🚀 I build fast, modern, and SEO-friendly websites using:
+
+JavaScript & TypeScript
+
+React.js, Next.js, Astro.js
+
+Node.js & MongoDB
+
+Tailwind CSS & Material UI
+
+🧼 Clean code, 💻 responsive design, and ⚡ smooth performance — that’s what I deliver.
+🔗 Let’s build something awesome together!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oxshipon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sh__Shipon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/webshipon)
