@@ -3,7 +3,11 @@
 
 ![Mern stact developer](https://res.cloudinary.com/dtybjrjc8/image/upload/v1746433099/Sh_Shipon_4_bz3xd0.png)
 
+##MERN Stack Developer
 
+I’m Shipon — a full-stack developer with 2+ years of experience. I build fast, modern, and SEO-friendly websites using JavaScript, TypeScript, React.js, Next.js, Astro.js, Node.js, MongoDB, Tailwind CSS, and Material UI.
+
+Clean code, responsive design, and smooth performance — that’s what I deliver. Let’s build something awesome!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oxshipon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sh__Shipon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/webshipon) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shipon mia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxshipon@gmail.com) 
