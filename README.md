@@ -3,7 +3,7 @@
 
 ![Mern stact developer](https://res.cloudinary.com/dtybjrjc8/image/upload/v1746433099/Sh_Shipon_4_bz3xd0.png)
 
-##MERN Stack Developer
+#MERN Stack Developer
 
 I’m Shipon — a full-stack developer with 2+ years of experience. I build fast, modern, and SEO-friendly websites using JavaScript, TypeScript, React.js, Next.js, Astro.js, Node.js, MongoDB, Tailwind CSS, and Material UI.
 
